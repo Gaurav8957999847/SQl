@@ -7,10 +7,7 @@ DETERMINISTIC
 BEGIN 
 	return x*x ;
 END //
-
 DELIMITER ;
-
-
 
 SELECT 
 	unit_price,
